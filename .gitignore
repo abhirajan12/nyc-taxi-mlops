@@ -3,9 +3,10 @@
 __pycache__/
 .env
 .venv/
-data/
+/data/
 mlruns/
 mlflow/
 .data/
 .ipynb_checkpoints/
+*.egg-info/
 
