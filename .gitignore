@@ -1,9 +1,11 @@
 .DS_Store
+*.db
 __pycache__/
 .env
 .venv/
 data/
 mlruns/
+mlflow/
 .data/
 .ipynb_checkpoints/
 
